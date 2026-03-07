@@ -123,3 +123,5 @@
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
 
 </div>
+![Babi-2580's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babi-2580&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babi-2580&layout=compact&theme=radical)
