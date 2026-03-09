@@ -7,6 +7,19 @@
 
 <br>
 
+<!-- CONTACT INFO ADDED HERE -->
+<div align="center">
+  
+### 📞 **Contact Me**
+  
+[![GitHub](https://img.shields.io/badge/GitHub-Babi--2580-181717?style=for-the-badge&logo=github)](https://github.com/Babi-2580)
+[![Telegram](https://img.shields.io/badge/Telegram-@Dagiiii1212-2CA5E0?style=for-the-badge&logo=telegram)](https://t.me/Dagiiii1212)
+[![Email](https://img.shields.io/badge/Email-babibelay1221@gmail.com-D14836?style=for-the-badge&logo=gmail)](mailto:babibelay1221@gmail.com)
+  
+📱 **Phone:** 0966-40-71-99 / 0979-32-99-98
+
+</div>
+
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Babi-2580&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Babi-2580?label=Followers&style=social" alt="followers" />
@@ -92,18 +105,19 @@
 ## 📫 **Connect With Me**
 
 <div align="center">
-  <a href="mailto:your-email@gmail.com">
+  <a href="mailto:babibelay1221@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://t.me/Dagiiii1212">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="https://github.com/Babi-2580">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+</div>
+
+<div align="center">
+  📱 **Phone:** 0966-40-71-99 / 0979-32-99-98
 </div>
 
 ---
@@ -121,6 +135,5 @@
 *"The only way to do great work is to love what you do." - Steve Jobs*
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
-![Babi-2580's GitHub stats](https://github-readme-stats.vercel.app/api?username=Babi-2580&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Babi-2580&layout=compact&theme=radical)
+
 </div>
